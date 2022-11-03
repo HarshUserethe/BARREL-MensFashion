@@ -10,5 +10,5 @@ Mens Fashion web design is a landing page design of Mens Fashion, this website c
 - GSAP
 
 ## Demo Link
- 
+  https://harshuserethe.github.io/BARREL-MensFashion/
 
